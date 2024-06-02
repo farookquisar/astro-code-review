@@ -1,12 +1,14 @@
 https://astro-code-review-form-db-jun24.netlify.app
 
+**src/pages/index.astro** &rarr;  **/components/Hero.astro** &rarr; **/components/SignupForm.tsx**
+
+
 YT &rarr; Form Submission in Astro: https://www.youtube.com/live/iCw-k-wPMaQ?si=SEN9ufAXZkwQYPts
 
 ---
 https://astro-code-review.vercel.app (Original CIP App)
 
 
-**src/pages/index.astro** &rarr;  **/components/Hero.astro** &rarr; **/components/SignupForm.tsx**
 
 
 # Astro Starter Kit: Minimal
