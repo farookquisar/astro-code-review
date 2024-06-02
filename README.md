@@ -6,6 +6,9 @@ Form Submission in Astro: https://www.youtube.com/live/iCw-k-wPMaQ?si=SEN9ufAXZk
 https://astro-code-review.vercel.app (Original CIP App)
 
 
+src/pages/index.astro &rarr; /components/Hero.astro &rarr; /components/SignupForm.tsx
+
+
 # Astro Starter Kit: Minimal
 
 
